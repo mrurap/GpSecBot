@@ -142,10 +142,10 @@
       "weeb",
       "group",
       "manager",
-      "cinderella"
+      "GpSec"
       
    ],
-   "name": "Cinderella",
+   "name": "GpSec",
    "repository": "https://github.com/xialop/GpSecBot",
    "success_url": "https://telegram.dog/GoldDev",
    "logo": "https://telegra.ph/file/623e7218026dd27b51822.jpg"
